@@ -32,4 +32,4 @@ You can contact me here:
 sossinaydev@gmail.com
 
 ## Play my games please
-sossinaydev.github.io
+https://sossinaydev.github.io
