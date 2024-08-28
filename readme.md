@@ -17,6 +17,7 @@ Inside the program, select a server using your arrow keys and enter.
 Then, press enter to scan the for local crafts.
 The individual changes will appear and you can choose whether or not you want to sync them.
 After the sync is complete the program will stand by and wait until your press enter again.
+**Make sure all users using the folder have the same/compatible mods installed!**
 
 ## How to create a server?
 To create a server, you need to have some kind of cloud service/provider like NextCloud or OneDrive.
