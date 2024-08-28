@@ -1,4 +1,4 @@
-# Kerbal source control
+# Kerbal source control - Free syncronisation/delayed-multiplayer mod for Kerbal space program
 #### A new way of gameplay.
 
 ## Warning! This isn't real-time multiplayer!
