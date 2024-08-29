@@ -28,6 +28,7 @@ Paste your folder path.
 The program will then ask you to create a world named the same way your folder is (If you didn't already create it).
 
 ## It's not working!
+The first step is to check the [bug list](https://github.com/sossinayDev/KerbalSourceControl/blob/main/bugs.md).
 If you encounter a bug, please let me know :)
 You can contact me here:
 sossinaydev@gmail.com
